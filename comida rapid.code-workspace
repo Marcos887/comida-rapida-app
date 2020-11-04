@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "comida",
+			"path": "comida"
+		},
+		{
+			"name": "comida-2",
+			"path": "comida-2"
+		}
+	],
+	"settings": {}
+}
